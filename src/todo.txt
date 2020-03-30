@@ -1,0 +1,7 @@
+Create a simple counter app
+A simple colored div should render
+Inside the div should be a scoreboard
+Below the scoreboard should be 2 buttons
+One button should be increment +
+One button should be decremenr -
+Each button should have a related icon
